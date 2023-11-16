@@ -1,4 +1,4 @@
-**1. Analysis of a Senchola University Students' Internship Application Form Dataset**
+**1. Analysis of a Senchola University Students' Internship Application Form Dataset with Python**
 
 **Description:**
 This dataset analysis project delves into the diverse facets of individual student profiles, capturing valuable information such as Full Name, Gender, Qualification, Degree pursued, Pass-Out Year, College Name, City, State, and the aspirational component of "What you want to learn?"
