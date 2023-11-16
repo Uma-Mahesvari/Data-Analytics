@@ -1,7 +1,1 @@
-Excel is one of the best platform to learn Data Analytics from scratch. 
-Excel introduces more than 500 formulas in Jun 2023.
-It will be added day by day 
-Here, I have collected some datasets in kaggle which is in .csv or .xlsx file format. 
-This will be helpful to analyse the datasets.
-And also I used real time datasets during data analytics internship. 
-That will be helpful to analyse current trends and requirements using that datasets.
+**Excel** stands out as an excellent starting point for mastering Data Analytics from the ground up. In June 2023, it introduces an extensive library of over 500 formulas, with continuous additions planned daily. To facilitate hands-on learning, I've curated a collection of datasets on Kaggle, available in both .csv and .xlsx formats. These datasets serve as valuable resources for practical analysis, allowing users to apply their newfound Excel skills to real-world scenarios. Additionally, my data analytics internship involved working with real-time datasets, providing a unique opportunity to analyze current trends and requirements, enhancing the depth and relevance of the learning experience.
