@@ -1,4 +1,4 @@
-# Data Analytics Learning Journey Repository
+# Data Analytics Learning Journey 
 
 **Description:**
 Welcome to my GitHub repository dedicated to documenting and showcasing my ongoing roadmap in learning data analytics. This repository serves as a dynamic record of my exploration into the realm of data analytics, featuring a comprehensive learning path that includes proficiency in Excel, Python, SQL, Power BI, and Tableau.
