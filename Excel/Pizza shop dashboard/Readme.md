@@ -1,4 +1,4 @@
-**1. Customer Service Analytics for Pizza shop**
+**1. Customer Service Analysis for Pizza shop**
 
 **Description:**
 Dive into the world of pizza sales and customer service with this dataset, capturing crucial details such as Serial Number (S.No), Customer ID, Order ID, Customer Name, Contact Date, Contact Type, Order Inquiry Status, Ticket ID, Agent Handling the Interaction, and Customer Rating Given. This Excel dashboard offers a comprehensive view of customer interactions, providing insights into customer satisfaction and service efficiency.
