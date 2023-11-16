@@ -1,6 +1,6 @@
 **Excel** stands out as an excellent starting point for mastering Data Analytics from the ground up. In June 2023, it introduces an extensive library of over 500 formulas, with continuous additions planned daily. To facilitate hands-on learning, I've curated a collection of datasets on Kaggle, available in both .csv and .xlsx formats. These datasets serve as valuable resources for practical analysis, allowing users to apply their newfound Excel skills to real-world scenarios. Additionally, my data analytics internship involved working with real-time datasets, providing a unique opportunity to analyze current trends and requirements, enhancing the depth and relevance of the learning experience.
 
-#1. Titanic Dataset with Excel Dashboard
+**1. Titanic Dataset with Excel Dashboard**
 
 **Description:**
 Embark on a visual exploration of the historic Titanic dataset with this Excel dashboard, featuring key attributes such as Pclass (Passenger Class), Survived, Name, Sex, Age, SibSp (Siblings/Spouses Aboard), Parch (Parents/Children Aboard), Ticket, Fare, and Embarked.
