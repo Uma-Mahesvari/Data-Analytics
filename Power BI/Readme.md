@@ -1,7 +1,7 @@
 **Power BI** is a cloud-based analysis service designed to extract and visualize data, empowering organizations to swiftly derive insights from time-sensitive information. This powerful tool integrates seamlessly with various data sources, offering dynamic and interactive dashboards that enable users to make informed decisions based on real-time data. With its user-friendly interface and robust analytical capabilities, Power BI is a key asset for organizations seeking to harness the full potential of their data and drive timely, data-driven decision-making.
 
 
-**Walmart Sales Analysis with Power BI**
+**1. Walmart Sales Analysis with Power BI**
 
 **Description:**
 This Power BI project centers around a comprehensive exploration of a Walmart dataset, capturing vital details such as Order ID, Order Date, Ship Date, Customer Name, Country, City, State, Category, Product Name, Sales, Quantity, and Profit. Through dynamic visualizations and interactive dashboards, this analysis aims to uncover trends, patterns, and actionable insights within Walmart's sales data.
