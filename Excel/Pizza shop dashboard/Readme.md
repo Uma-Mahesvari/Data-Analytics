@@ -15,7 +15,7 @@ Dive into the world of pizza sales and customer service with this dataset, captu
 
 **Customer Rating Insights:** Visualizations based on Customer Ratings offer a snapshot of customer satisfaction. Understand the distribution of ratings given by customers, allowing for the identification of service strengths and areas that may require attention.
 
-**Finance Analysis for Pizza shop**
+**2. Finance Analysis for Pizza shop**
 
 **Description:** Dive into the financial landscape of pizza sales with this dataset, capturing essential details such as Order ID, Product ID, Sale Date, Amount in Sales, Discounted Value, and Region. This Excel dashboard provides a comprehensive view of the financial aspects of pizza sales, enabling stakeholders to make data-driven decisions and optimize financial strategies.
 
