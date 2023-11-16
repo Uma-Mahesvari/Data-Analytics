@@ -7,7 +7,7 @@ Welcome to my GitHub repository dedicated to documenting and showcasing my ongoi
 
 **Excel Mastery:** The repository starts with a focus on Excel, covering fundamental to advanced features. Excel serves as the foundation for data manipulation, analysis, and visualization, providing a solid base for more advanced analytics tools.
 
-**Python Scripting:** Embracing the versatility of Python, I am progressing through the essentials of data manipulation, statistical analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib. Jupyter Notebooks will be included to showcase practical implementations and insights.
+**Python Scripting:** Embracing the versatility of Python, I am progressing through the essentials of data manipulation, statistical analysis, and visualization using libraries such as Pandas, NumPy, and Matplotlib. Google Colab Notebooks will be included to showcase practical implementations and insights.
 
 **SQL Proficiency:** A dedicated section in the repository details my journey in mastering SQL for efficient database querying and manipulation. From basic SELECT statements to complex JOIN operations, the goal is to acquire a strong command of database management.
 
